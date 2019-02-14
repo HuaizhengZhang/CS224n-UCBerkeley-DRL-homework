@@ -1,0 +1,6 @@
+[submodule "homework"]
+	path = homework
+	url = https://github.com/berkeleydeeprlcourse/homework
+[submodule "spinningup"]
+	path = spinningup
+	url = https://github.com/openai/spinningup
